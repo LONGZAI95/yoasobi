@@ -1,0 +1,2 @@
+# yoasobi
+GitHub Pages
